@@ -5,6 +5,7 @@
 				<img class="ru-logo" src="images/logo-ru.png" alt="Трансметалл — оптовая торговля металлопрокатом">
 				<img class="eng-logo" src="images/logo-en.png" alt="Transmetall — wholesale of rolled metall products">
 			</a>
+			<!-- при переключении на англ. язык добавить к тегу body класс "eng" -->
 			<div class="lang-switcher pull-right">
 				<a href="/ru" class="active">RU</a>
 				<a href="/eng">ENG</a>
