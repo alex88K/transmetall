@@ -127,15 +127,3 @@ $(function() {
 		closeOnClickLink: true
 	};
 })(jQuery);
-
-function initMap() {
-   var map = new google.maps.Map(document.getElementById('map'), {
-      center: {lat: 55.738880, lng: 37.780885},
-      zoom: 17
-   });
-   var marker = new google.maps.Marker({
-      position: {lat: 55.718880, lng: 37.782885},
-      map: map,
-      title: '111555, г. Москва, ул. Пушкинская, д. 77 оф. 123'
-   });
-}

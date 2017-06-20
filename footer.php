@@ -1,5 +1,5 @@
    <footer class="footer">
-      <div class="container">
+      <div class="container reveal-anim">
       	<div class="row">
             <div class="col-md-6 col-sm-12">
                <div class="f-col">

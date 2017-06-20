@@ -39,9 +39,9 @@
       <section class="product section">
          <div class="container">
             <header class="section-header">
-               <h2 class="section-title">Наша продукция</h2>
+               <h2 class="section-title reveal-anim">Наша продукция</h2>
             </header>
-            <div class="row">
+            <div class="row reveal-anim">
                <div class="col-md-4 col-sm-4 col-item">
                   <a href="/product-item.php" class="col-link">
                      <svg class="link-i"><use xlink:href="#link-i"></use></svg>
@@ -86,10 +86,10 @@
             <div class="row">
                <div class="col-md-7">
                   <header class="section-header section-header--w">
-                     <h2 class="section-title">О нас</h2>
+                     <h2 class="section-title reveal-anim">О нас</h2>
                      <div class="section-subtitle">И наших партнерах</div>
                   </header>
-                  <div class="section-desc-wrap">
+                  <div class="section-desc-wrap reveal-anim">
                      <div class="section-desc"><p>С другой стороны сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям. Значимость этих проблем настолько очевидна, что начало повседневной работы по формированию позиции играет важную роль в формировании направлений прогрессивного развития.</p>
                      <p>Равным образом укрепление и развитие структуры требуют от нас анализа соответствующий условий активизации. Таким образом сложившаяся структура организации требуют от нас анализа системы обучения кадров.</p></div>
                      <a href="#" class="btn btn-arrow btn-arrow--w">Подробнее<svg class="arrow-i"><use xlink:href="#right-arrow-i"></use></svg></a>
@@ -114,9 +114,9 @@
       <section class="news">
          <div class="container">
             <div class="section-header">
-               <h2 class="section-title">Новости компании</h2>
+               <h2 class="section-title reveal-anim">Новости компании</h2>
             </div>
-            <div class="row">
+            <div class="row reveal-anim">
                <div class="col-md-4 col-sm-4 col-item">
                   <a href="/news.php" class="col-link">
                      <svg class="link-i"><use xlink:href="#link-i"></use></svg>
