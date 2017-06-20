@@ -628,7 +628,9 @@ textarea:focus {
   background: #2dcab6;
 }
 .navbar-nav .nav-item .search-btn {
+  position: static;
   height: 100%;
+  top: 0;
   background: none;
   border: none;
 }

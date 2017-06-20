@@ -492,7 +492,9 @@ textarea {
 			}
 		}
 		.search-btn {
+			position: static;
 			height: 100%;
+			top: 0;
 			background: none;
 			border: none;
 			&:hover { color: #2dcab6; }
