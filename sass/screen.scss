@@ -271,8 +271,13 @@ textarea {
    	width:327px; 
    	height: 70px; 
 	}
+	.eng-logo { display: none; }
 }
 
+.eng {
+	.ru-logo { display: none; }
+	.eng-logo { display: block; }
+}
 
 .header { position: relative; }
 

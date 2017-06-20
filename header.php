@@ -2,9 +2,8 @@
 	<div class="header-top">
 		<div class="container">
 			<a href="index.php" class="brand-logo">
-				<img src="images/logo-ru.png" alt="Трансметалл — оптовая торговля металлопрокатом">
-				<!-- on ENGLISH switch to: -->
-				<!-- <img src="images/logo-en.png" alt="Transmetall — wholesale of rolled metall products"> -->
+				<img class="ru-logo" src="images/logo-ru.png" alt="Трансметалл — оптовая торговля металлопрокатом">
+				<img class="eng-logo" src="images/logo-en.png" alt="Transmetall — wholesale of rolled metall products">
 			</a>
 			<div class="lang-switcher pull-right">
 				<a href="/ru" class="active">RU</a>

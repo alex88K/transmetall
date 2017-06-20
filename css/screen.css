@@ -389,6 +389,16 @@ textarea:focus {
   width: 327px;
   height: 70px;
 }
+.brand-logo .eng-logo {
+  display: none;
+}
+
+.eng .ru-logo {
+  display: none;
+}
+.eng .eng-logo {
+  display: block;
+}
 
 .header {
   position: relative;

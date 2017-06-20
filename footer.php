@@ -4,9 +4,8 @@
             <div class="col-md-6 col-sm-12">
                <div class="f-col">
                   <a href="index.php" class="brand-logo f-logo">
-                     <img src="images/logo-ru.png" widht="327px" height="70px" alt="Трансметалл — оптовая торговля металлопрокатом">
-                     <!-- on ENGLISH switch to: -->
-                     <!-- <img src="images/logo-en.png" widht="305px" height="71px" alt="Transmetall — wholesale of rolled metall products"> -->
+                     <img class="ru-logo" src="images/logo-ru.png" widht="327px" height="70px" alt="Трансметалл — оптовая торговля металлопрокатом">
+                     <img class="eng-logo" src="images/logo-en.png" widht="305px" height="71px" alt="Transmetall — wholesale of rolled metall products">
                   </a>
                   <div class="tel">
                      <a href="tel:+79876543210"><svg class="phone-i"><use xlink:href="#phone-i"></use></svg>+7 (987) 654-32-10</a>
