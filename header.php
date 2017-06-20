@@ -2,9 +2,9 @@
 	<div class="header-top">
 		<div class="container">
 			<a href="index.php" class="brand-logo">
-				<img src="images/logo-ru.png" widht="327px" height="70px" alt="Трансметалл — оптовая торговля металлопрокатом">
+				<img src="images/logo-ru.png" alt="Трансметалл — оптовая торговля металлопрокатом">
 				<!-- on ENGLISH switch to: -->
-				<!-- <img src="images/logo-en.png" widht="305px" height="71px" alt="Transmetall — wholesale of rolled metall products"> -->
+				<!-- <img src="images/logo-en.png" alt="Transmetall — wholesale of rolled metall products"> -->
 			</a>
 			<div class="lang-switcher pull-right">
 				<a href="/ru" class="active">RU</a>
@@ -15,6 +15,7 @@
 				<button type="button" class="btn-callback" data-toggle="modal" data-target="#modal-callback">Заказать обратный звонок</button>
 			</div>
 	   </div>
+	   <button type="button" class="mob-search-btn search-btn"><span class="glyphicon glyphicon-search"></span></button>
    </div>
    <nav class="navbar">
    	<div class="container">
@@ -43,4 +44,12 @@
 	   	</div>
    	</div>
    </nav>
+   <div class="search-header">
+   	<div class="container">
+			<form action="/search" class="search-bar" role="search">
+				<input type="search" name="q" placeholder="ПОИСК" class="input-field" aria-label="Поиск по сайту">
+				<button type="submit" class="search-btn pull-right"><svg class="search-i"><use xlink:href="#search-i"></use></svg></button>
+			</form>
+		</div>
+	</div>
 </header>

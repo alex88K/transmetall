@@ -84,7 +84,7 @@
       <section class="aboutus">
          <div class="container">
             <div class="row">
-               <div class="col-md-7">
+               <div class="col-md-7 col-sm-12">
                   <header class="section-header section-header--w">
                      <h2 class="section-title reveal-anim">О нас</h2>
                      <div class="section-subtitle">И наших партнерах</div>
@@ -95,7 +95,7 @@
                      <a href="#" class="btn btn-arrow btn-arrow--w">Подробнее<svg class="arrow-i"><use xlink:href="#right-arrow-i"></use></svg></a>
                   </div>
                </div>
-               <div class="col-md-5">
+               <div class="col-md-5 col-sm-12 col-banners">
                   <div class="partner">
                      <a href="#partner1" class="partner-b">
                         <img src="images/partner/partner-logo-1.png" width="402px" height="39px" alt="POSTEEL">
@@ -104,7 +104,6 @@
                      <a href="#partner2" class="partner-b">
                         <img src="images/partner/partner-logo-2.png" width="207px" height="43px" alt="POSTEEL">
                         <div class="bg-image" style="background-image:url(images/partner/partner-bg-2.jpg)"></div>
-                        x
                      </a>
                   </div>
                </div>

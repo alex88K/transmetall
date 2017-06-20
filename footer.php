@@ -14,7 +14,7 @@
                   </div>
                </div>
             </div>
-      		<div class="col-md-2 col-sm-5">
+      		<div class="col-md-2 col-sm-5 col-xs-5">
       			<div class="f-col">
       				<div class="f-title">Главное меню</div>
       				<ul class="f-nav">
@@ -28,7 +28,7 @@
       				</ul>
       			</div>
       		</div>
-            <div class="col-md-4 col-sm-7">
+            <div class="col-md-4 col-sm-7 col-xs-7">
                <div class="f-col">
                   <div class="f-title">Наша продукция</div>
                   <ul class="f-nav">

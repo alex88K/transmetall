@@ -4,6 +4,12 @@ $(function() {
 	$('.navbar-toggle').jPushMenu({ closeOnClickLink: false });
 	$('.dropdown-toggle').dropdown();
 
+/*--Search open---------------------------*/
+
+	$('.search-btn').on('click', function() {
+		$('body').toggleClass('search-open');
+	});
+
 /*--------------------------------------------------*/ 
 	
 	$('.promo-slider .owl-carousel').owlCarousel({
@@ -14,7 +20,7 @@ $(function() {
 		dotsContainer: '.dots-nav',
 		smartSpeed: 800,
 		autoplay: true,
-		autoplayTimeout: 5000
+		autoplayTimeout: 55000
 	});
 
 /*--Animation-------------------*/
